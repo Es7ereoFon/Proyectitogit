@@ -1,5 +1,13 @@
 <?php
-echo " el otro archivo";
+if
+
+(
+    true
+) {
+    echo "El primer archivo";
+} else {
+    echo "El segundo archivo";
+}
 
 
 ?>
